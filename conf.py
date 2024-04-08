@@ -113,3 +113,13 @@ sites = [
 # ----------------------------------------------------------
 
 should_send_to_chat = True
+
+rocket_chat_server = ""
+tocken = ""
+user_id = ""
+channel_name = ""
+
+# ----------------------------------------------------------
+
+text_api_base_url = ""
+api_key = ""
