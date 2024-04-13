@@ -3,7 +3,7 @@
 # https://github.com/jadolg/rocketchat_API
 import requests
 from rocketchat_API.rocketchat import RocketChat
-from names_urls_tokens import rocket_chat_server, user_id, tocken, channel_name
+from conf import rocket_chat_server, user_id, tocken, channel_name
 
 
 def send_news(text):
