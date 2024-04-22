@@ -2,7 +2,8 @@
 
 import json
 import requests
-from names_urls_tokens import text_api_base_url, api_key
+
+from conf import text_api_base_url, api_key
 
 
 def get_text_api_token():
