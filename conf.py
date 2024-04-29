@@ -82,6 +82,8 @@ desired_phrase = [
     "programming language",
     "hacker",
     "Hacker",
+    "chip",
+    "تراشه",
     "هکر",
     "کدنویسی",
     "کد‌نویسی",
@@ -95,8 +97,6 @@ sites = [
     "https://donya-e-eqtesad.com",
     "https://class.vision",
     "https://www.forbes.com/",
-    "https://ana.press/",
-    "https://www.aparat.com/ISNA",
     "https://irandoc.ac.ir/news",
     "https://newsroom.ibm.com/",
     "https://www.sepinud.org/",
@@ -108,11 +108,12 @@ sites = [
     "https://aut.ac.ir/",
     "https://ce.aut.ac.ir/fa",
     "https://www.iut.ac.ir/fa",
-    "https://techmart.ir/",
+    "https://www.techmart.ir/",
+    "https://qazvin.iau.ir/fa",
 ]
 # ----------------------------------------------------------
 
-should_send_to_chat = True
+should_send_to_chat = False
 
 rocket_chat_server = ""
 tocken = ""
